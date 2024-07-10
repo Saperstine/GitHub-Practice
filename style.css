@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(1, 26, 255, 0.452)
+}
+
+
+
+
+
+.box1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 5px dashed blue;
+    width: 94%;
+    height: 88%;
+
+    padding: 50px;
+}
+
+.box2 {
+    height: 200px;
+    width: 200px;
+    border: solid 2px purple;
+    background-color: purple;
+}
+
+.box3 {
+    height: 200px;
+    width: 200px;
+    border: solid 2px green;
+    background-color: green;
+}
+
+.box4 {
+    height: 200px;
+    width: 200px;
+    border: solid 2px orange;
+    background-color: orange;
+}
+
+.box5 {
+    height: 200px;
+    width: 200px;
+    border: solid 2px orange;
+    background-color: orange;
+}
